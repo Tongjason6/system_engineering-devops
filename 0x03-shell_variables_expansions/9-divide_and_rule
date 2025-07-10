@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script divides POWER by DIVIDE
+
+echo $((POWER / DIVIDE))

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script prints a hello message to the current user
+
+echo "hello $USER"

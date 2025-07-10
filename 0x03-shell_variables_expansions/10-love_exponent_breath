@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script raises BREATH to the power of LOVE
+
+echo $((BREATH ** LOVE))
