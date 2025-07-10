@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# This script adds /action to the end of the PATH environment variable
-
-export PATH="$PATH:/action"
