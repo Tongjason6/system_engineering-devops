@@ -1,4 +1,2 @@
-#!/usr/bin/env bash
-# This script counts the number of directories in the PATH variable
-
+#!/bin/bash
 echo "$PATH" | tr ':' '\n' | grep -v '^$' | wc -l

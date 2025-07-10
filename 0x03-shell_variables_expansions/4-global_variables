@@ -1,4 +1,2 @@
-#!/usr/bin/env bash
-# This script lists all environment variables
-
+#!/bin/bash
 printenv
