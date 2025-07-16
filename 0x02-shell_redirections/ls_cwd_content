@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 clibuda clibuda 4096 Jul 16 10:29 .
+drwxr-xr-x 8 clibuda clibuda 4096 Jul 10 15:58 ..
+-rwxr-xr-x 1 clibuda clibuda   32 Jun 26 13:58 0-hello_world
+-rwxr-xr-x 1 clibuda clibuda   28 Jun 26 13:58 1-confused_smiley
+-rwxr-xr-x 1 clibuda clibuda   48 Jun 26 13:58 10-no_more_js
+-rwxr-xr-x 1 clibuda clibuda   28 Jun 26 13:58 2-hellofile
+-rwxr-xr-x 1 clibuda clibuda   39 Jun 26 13:58 3-twofiles
+-rwxr-xr-x 1 clibuda clibuda   29 Jun 26 13:58 4-lastlines
+-rwxr-xr-x 1 clibuda clibuda   29 Jun 26 13:58 5-firstlines
+-rwxr-xr-x 1 clibuda clibuda   40 Jun 26 13:58 6-third_line
+-rwxr-xr-x 1 clibuda clibuda   82 Jun 27 21:59 7-file
+-rwxr-xr-x 1 clibuda clibuda   72 Jun 29 00:49 7-file.save
+-rwxr-xr-x 1 clibuda clibuda   36 Jun 26 13:58 8-cwd_state
+-rwxr-xr-x 1 clibuda clibuda   37 Jun 26 13:58 9-duplicate_last_line
+-rwxr-xr-x 1 clibuda clibuda   28 Jun 26 13:58 README.md
+-rw-r--r-- 1 clibuda clibuda   12 Jun 27 22:02 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 clibuda clibuda    0 Jul 16 10:29 ls_cwd_content
